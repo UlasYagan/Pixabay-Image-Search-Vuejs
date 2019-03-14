@@ -1,4 +1,4 @@
-# giphy-api
+# pixabay-api
 
 > A Vue.js project
 
