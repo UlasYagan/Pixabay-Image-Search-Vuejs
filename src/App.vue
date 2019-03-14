@@ -26,7 +26,7 @@ export default {
   methods: {
     doQuery(query) {
       if (query === "") {
-        query = "lviv";
+        query = "izmir";
       }
       let key = ""
       this.$http
